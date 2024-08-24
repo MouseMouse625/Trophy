@@ -1,0 +1,1 @@
+Here you can find a model of a trophy in CAD. There are .STEP, .STL, and .GLB/GLTF files for the trophy. Here's the project link on MakerWorld: https://makerworld.com/en/models/603640.
